@@ -29,3 +29,6 @@ Logistic regression
 Random Forest Classifier
 
 XG Boost Classifier
+
+![image](https://github.com/Asifdiwan23may1992/classification_mobile_range_price_prediction/assets/150370025/723e49ac-acd5-4c9d-9800-4b31c49f436f)
+
